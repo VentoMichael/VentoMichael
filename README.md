@@ -4,7 +4,7 @@ I am a full stack developper with a passion for Laravel<br>Shoot me an email or 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-vento-96a1b5196/) 
-[![Website](https://img.icons8.com/ios/50/000000/link--v1.png)](https://ventomichael.netlify.app/)
+[![Website](https://img.icons8.com/ios-filled/50/ffffff/domain.png)](https://ventomichael.netlify.app/)
 
 
 # 💻 Tech Stack:
